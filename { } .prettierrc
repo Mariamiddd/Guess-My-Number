@@ -2,3 +2,6 @@
     "singleQoute": true,
     "arrowParens": "avoid"
 }
+"[markdown]": {
+        "editor.wordWrap": "bounded"
+    },
